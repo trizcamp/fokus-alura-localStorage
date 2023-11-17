@@ -6,3 +6,7 @@ Nesse projeto o usuario consegue adicionar o tempo que se manterar em foco na su
 
 ## Screenshots
 <img src="imagensFokus/captura1.png" width=50%>
+<img src="imagensFokus/captura2.png" width=50%>
+<img src="imagensFokus/captura3.png" width=50%>
+<img src="imagensFokus/captura4.png" width=50%>
+
