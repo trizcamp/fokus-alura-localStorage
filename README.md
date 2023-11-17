@@ -5,4 +5,4 @@ Esse foi o projeto usado na aula sobre armazenamento de dados da plataforma de e
 Nesse projeto o usuario consegue adicionar o tempo que se manterar em foco na sua tarefa, com opções de <b>foco, descanso curto e descanso longo</b>. O usuário também consegue adicionar e editar novas tarefas.
 
 ## Screenshots
-<img src="imagensFokus/captura1.png" width=400 style="text-align:center">
+<img src="imagensFokus/captura1.png" width=50%>
