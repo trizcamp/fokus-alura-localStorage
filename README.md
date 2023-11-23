@@ -11,6 +11,7 @@ Nesse projeto o usuario consegue adicionar o tempo que se manterar em foco na su
 <img src="imagensFokus/captura4.png" width=50%>
 
 ### Assunto Estudado
++ manipulação do DOM
 + localStorage
 + Uso da classList
 + Array
